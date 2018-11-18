@@ -1,0 +1,7 @@
+# add ignore file list
+*.vs
+*.vscode
+
+# Build results
+Debug/
+/Debug/
